@@ -11,7 +11,7 @@ namespace square
                 Console.WriteLine("Invalid number");
                 return;
             }
-            Console.WriteLine($"{num} = {num*num}");
+            Console.WriteLine($ "{num} is {(num%2==0? "Even": "Odd")}");
         }
 
     }

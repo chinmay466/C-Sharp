@@ -1,0 +1,27 @@
+﻿using System;
+
+class vehicle
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Enter the vehicle type (car, truck, motorcycle):");
+        string choice = Console.ReadLine();
+
+        switch (choice)
+        {
+            case "car":
+                Console.WriteLine("You have selected a car.");
+                break;
+            case "truck":
+                Console.WriteLine("You have selected a truck.");
+                break;
+            case "motorcycle":
+                Console.WriteLine("You have selected a motorcycle.");
+                break;
+            default:
+                Console.WriteLine("Unknown vehicle type.");
+                break;
+        }
+
+    }
+}

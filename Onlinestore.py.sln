@@ -1,0 +1,34 @@
+using System;
+class Payment
+{
+    public double amount;
+    public DateTime date;
+}
+class CreditCardPayment : Payment
+{
+    public string cardNumber, cardHolder;
+}
+class UPIPayment : Payment
+{
+    public string upiID, bankName;
+}
+class Program
+{
+    static void Main()
+    {
+        CreditCardPayment ccp = new CreditCardPayment();
+        ccp.amount = 1000;
+        ccp.date = DateTime.Now;
+        ccp.cardNumber = "1234-5678-9012-3456";
+        ccp.cardHolder = "John Doe";
+        UPIPayment upi = new UPIPayment();
+        upi.amount = 500;
+        upi.date = DateTime.Now;
+        upi.upiID = "john@upi";
+        upi.bankName = "ABC Bank";
+        Console.WriteLine("Credit Card Payment:");
+        Console.WriteLine($"Amount: {ccp.amount}, Date: {ccp.date}, Card Number: {ccp.cardNumber}, Card Holder: {ccp.cardHolder}");
+        Console.WriteLine("\nUPI Payment:");
+        Console.WriteLine($"Amount: {upi.amount}, Date: {upi.date}, UPI ID: {upi.upiID}, Bank Name: {upi.bankName}");
+    }
+}

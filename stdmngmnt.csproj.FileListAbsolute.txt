@@ -1,0 +1,14 @@
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\bin\Debug\net8.0\stdmngmnt.exe
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\bin\Debug\net8.0\stdmngmnt.deps.json
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\bin\Debug\net8.0\stdmngmnt.runtimeconfig.json
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\bin\Debug\net8.0\stdmngmnt.dll
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\bin\Debug\net8.0\stdmngmnt.pdb
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.AssemblyInfoInputs.cache
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.AssemblyInfo.cs
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.csproj.CoreCompileInputs.cache
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.dll
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\refint\stdmngmnt.dll
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.pdb
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\stdmngmnt.genruntimeconfig.cache
+C:\Users\BCA 39\Desktop\vishwas dont delete this file\vishC#\stdmngmnt\obj\Debug\net8.0\ref\stdmngmnt.dll
